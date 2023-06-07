@@ -1,0 +1,2 @@
+#!/bin/bash
+touch mkdir tmp/my_first_directory
