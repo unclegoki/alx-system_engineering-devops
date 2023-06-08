@@ -1,2 +1,2 @@
 #!/bin/bash
-link /bin/ls __ls__
+link 1 /bin/ls 7 __ls__
